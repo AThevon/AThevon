@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Adrien
 <br>
-🌱 I’m currently learning at CEFIM
+
+- I’m currently learning at CEFIM, France 👨‍💻
 
 <br>
 <br>
@@ -14,6 +15,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb," />
 </a>
+
 <br>
 <br>
 
