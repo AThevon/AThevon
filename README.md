@@ -61,4 +61,4 @@
 <br>
 <br>
 
- 🎸 I love electric guitar too
+ 🎸 I also love electric guitar
