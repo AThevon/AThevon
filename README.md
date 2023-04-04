@@ -5,13 +5,7 @@
 <br>
 <br>
 
-### My Portofolio :
-
-
-## [👉 Website](https://adrienthevon.fr)
-
-
-## [👉 Repository](https://github.com/AThevon/Portfolio.git)
+## [👉 My Portfolio](https://adrienthevon.fr)
 
 <br>
 
