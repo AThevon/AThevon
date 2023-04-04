@@ -4,7 +4,6 @@
 - I’m currently learning at CEFIM, France 👨‍💻
 
 <br>
-<br>
 
 ## [👉 Portfolio](https://adrienthevon.fr)
 
