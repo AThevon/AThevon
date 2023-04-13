@@ -21,7 +21,7 @@
 ### Additional Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,php,wordpress,sass,scss" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,php,wordpress,sass" />
 </a>
 
 <br>
