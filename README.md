@@ -9,10 +9,10 @@
 
 <br>
 
-## Main Skills (MERN Stack)
+## Main Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb," />
 </a>
 
 <br>
@@ -21,7 +21,7 @@
 ### Additional Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,php,wordpress,sass" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,php,wordpress,sass,scss" />
 </a>
 
 <br>
@@ -30,7 +30,7 @@
 ### Will Learn
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gatsby,tailwind,vue,threejs," />
+  <img src="https://skillicons.dev/icons?i=gatsby,vue,threejs" />
 </a>
 
 <br>
