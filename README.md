@@ -12,7 +12,7 @@
 ## Main Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,redux,nodejs,express,nest,mysql,postgres,mongodb," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,threejs,nodejs,express,nest,docker,postgres,mongodb," />
 </a>
 
 <br>
@@ -30,7 +30,7 @@
 ### Will Learn
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gatsby,vue,threejs," />
+  <img src="https://skillicons.dev/icons?i=gatsby,vue,nuxtjs,redux," />
 </a>
 
 <br>
@@ -48,7 +48,7 @@
 #### Others skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,vercel,aws,postman,codepen,ableton,discord,instagram,linkedin," />
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,aws,postman,codepen,ableton,discord,instagram,linkedin," />
 </a>
 
 <br>
