@@ -12,7 +12,7 @@
 ## Main Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,scss,js,ts,react,vite,nextjs,threejs,nodejs,express,nest,docker,postgres,mongodb," />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vite,nextjs,threejs,nodejs,express,nest,docker,postgres,mongodb," />
 </a>
 
 <br>
