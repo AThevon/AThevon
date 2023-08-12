@@ -1,11 +1,12 @@
-### Hi there 👋 I'm Adrien
+### Hi there 👋 I'm Adrien, a french Web Developper
 <br>
 
 - I’m currently learning at CEFIM, France 👨‍💻
 
 <br>
 
-## [👉 Portfolio](https://adrienthevon.fr)
+## [👉 Old Portfolio](https://adrienthevon.fr)
+### A new one is coming, the repo [here](https://github.com/AThevon/athevon_portfolio.git)
 
 <br>
 
