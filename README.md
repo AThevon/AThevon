@@ -5,8 +5,9 @@
 
 <br>
 
-## [👉 Old Portfolio](https://adrienthevon.fr)
-### A new one is coming, the repo [here](https://github.com/AThevon/athevon_portfolio.git)
+## [👉 Portfolio](https://adrienthevon.fr) (Work in progress)
+
+### The old one is [here](https://portfolio-one-gray-80.vercel.app/)
 
 <br>
 
