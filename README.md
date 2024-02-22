@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Adrien, a french Web Developper
 <br>
 
-- I’m currently learning at CEFIM, France 👨‍💻
+- I’m currently working at Toulouse, France 👨‍💻
 
 <br>
 
