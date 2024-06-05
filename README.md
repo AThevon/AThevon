@@ -24,7 +24,7 @@
 ### Additional Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,php,redux" />
+  <img src="https://skillicons.dev/icons?i=mysql,php,redux, py, django, materialui, nginx" />
 </a>
 
 <br>
