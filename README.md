@@ -1,20 +1,21 @@
 ### Hi there 👋 I'm Adrien, a french Web Developper
+
 <br>
 
 - I’m currently working at Toulouse, France 👨‍💻
 
 <br>
 
-## [👉 Portfolio](https://adrienthevon.fr) (Work in progress)
+## [👉 Portfolio](https://blenkdev.fr)
 
-### The old one is [here](https://portfolio-one-gray-80.vercel.app/)
+### The old one is [here](https://adrienthevon.fr/)
 
 <br>
 
 ## Main Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vite,nextjs,threejs,nodejs,express,nest,docker,postgres,mongodb," />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vite,nextjs,vue,tailwind,threejs,nodejs,express,nest,docker,postgres,firebase," />
 </a>
 
 <br>
@@ -23,7 +24,7 @@
 ### Additional Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,php,wordpress,tailwind," />
+  <img src="https://skillicons.dev/icons?i=mysql,php,redux" />
 </a>
 
 <br>
@@ -32,7 +33,7 @@
 ### Will Learn
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gatsby,vue,nuxtjs,redux,angular," />
+  <img src="https://skillicons.dev/icons?i=gatsby,nuxtjs,angular," />
 </a>
 
 <br>
