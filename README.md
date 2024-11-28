@@ -1,62 +1,49 @@
-### Hi there 👋 I'm Adrien, a french Web Developper
+# 🌟 Hi there 👋 I'm **Adrien**, a French Web Developer
 
-<br>
+### 📍 Based in **Toulouse, France**, currently crafting modern web solutions. 👨‍💻  
+Feel free to explore my work and connect! 🚀  
 
-- I’m currently working at Toulouse, France 👨‍💻
+---
 
-<br>
+## 🌐 **Portfolio**
 
-## [👉 Portfolio](https://blenkdev.fr)
+- 🎨 [👉 Check out my latest portfolio](https://blenkdev.fr)  
+- 🕰️ **The old version is still available [here](https://adrienthevon.fr)**  
 
-### The old one is [here](https://adrienthevon.fr/)
+---
 
-<br>
-
-## Main Skills
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vite,nextjs,vue,tailwind,threejs,nodejs,express,nest,docker,postgres,firebase," />
-</a>
-
-<br>
-<br>
-
-### Additional Languages
+## ⚡ **Main Skills**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,php,redux,py,django,materialui,nginx" />
+  <img src="https://skillicons.dev/icons?i=ts,nuxt,tailwind,threejs,laravel,postgres,docker" />
 </a>
 
-<br>
-<br>
+---
 
-### Will Learn
+## 📚 **Additional Skills**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gatsby,nuxtjs,angular," />
+  <img src="https://skillicons.dev/icons?i=nextjs,nest,deno,py,django,firebase" />
 </a>
 
-<br>
-<br>
+---
 
-### Design
+## 🎨 **Design Tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps," />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps" />
 </a>
 
-<br>
-<br>
+---
 
-#### Others skills
+## 🛠️ **Other Tools I Use**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,git,vercel,aws,postman,codepen,ableton,discord,instagram,linkedin," />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,aws,postman,discord,instagram,linkedin" />
 </a>
 
-<br>
-<br>
-<br>
-<br>
+---
 
- 🎸 I also love electric guitar
+## 🎸 Fun Fact  
+
+When I'm not coding, I love playing the **electric guitar** and exploring new riffs! 🎵
