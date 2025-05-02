@@ -1,4 +1,4 @@
-# 🌟 Hi there 👋 I'm **Adrien**, a French Web Developer
+# 🌟 Hi there 👋 I'm **Adrien**, a French Web Engineer
 
 ### 📍 Based in **Toulouse, France**, currently crafting modern web solutions. 👨‍💻  
 Feel free to explore my work and connect! 🚀  
