@@ -5,7 +5,7 @@ Feel free to explore my work and connect! 🚀
 
 ---
 
-## 🔥 **Last Project**
+## 🔥 **Last Projects**
 
 - 🎤 [Under The Flow](https://undertheflow.com)  
 - 🎨 [BlenkDev Portfolio](https://blenkdev.fr)  
