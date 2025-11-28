@@ -9,7 +9,7 @@ Feel free to explore my work and connect! 🚀
 
 🎤  [UNDER THE FLOW](https://undertheflow.com)  
 🎨  [BLENKDEV](https://blenkdev.fr)  
-🕰️  **The old version is still available [here](https://adrienthevon.fr)**  
+🕰️  My very first [SPA](https://adrienthevon.fr) 
 
 ---
 
