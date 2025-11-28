@@ -5,9 +5,10 @@ Feel free to explore my work and connect! 🚀
 
 ---
 
-## 🌐 **Portfolio**
+## 🔥 **Last Project**
 
-- 🎨 [👉 Check out my latest portfolio](https://blenkdev.fr)  
+- 🎤 [Under The Flow](https://undertheflow.com)  
+- 🎨 [BlenkDev Portfolio](https://blenkdev.fr)  
 - 🕰️ **The old version is still available [here](https://adrienthevon.fr)**  
 
 ---
