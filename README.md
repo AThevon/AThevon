@@ -7,9 +7,7 @@ Feel free to explore my work and connect! 🚀
 
 ## 🔥 **Last Projects**
 
-🎤  [UNDER THE FLOW](https://undertheflow.com)  
-🎨  [BLENKDEV](https://blenkdev.fr)  
-🕰️  My very first [SPA](https://adrienthevon.fr) 
+Portfolio [here](https://adrienthevon.fr) 
 
 ---
 
