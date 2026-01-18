@@ -5,9 +5,7 @@ Feel free to explore my work and connect! 🚀
 
 ---
 
-## 🔥 **Last Projects**
-
-Portfolio [here](https://adrienthevon.fr) 
+## 🔥 **Portfolio [here](https://adrienthevon.fr)**
 
 ---
 
