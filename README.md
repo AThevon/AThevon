@@ -12,7 +12,7 @@ Feel free to explore my work and connect! 🚀
 ## ⚡ **Main Skills**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nuxt,tailwind,threejs,nodejs,laravel,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,vite,threejs,nodejs,supabase,postgres" />
 </a>
 
 ---
@@ -20,7 +20,7 @@ Feel free to explore my work and connect! 🚀
 ## 📚 **Additional Skills**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=scss,nest,py,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=laravel,docker,nuxt,scss,nest,py,django,firebase" />
 </a>
 
 ---
