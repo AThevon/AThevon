@@ -1,9 +1,11 @@
-### hey, i'm adrien
+### hey, i'm adri 
 
 web engineer based in toulouse, currently working on image processing and delightful UI's
 
-i build things with **next.js** and **three.js**
+mainly **next.js**
 
-outside of code: electric guitar, smart home tinkering, and riding my cbr650r
+i like trying others technos too
+
+outside of code: electric guitar, video games, and my beloved cbr650r 🏍️ 👁️o👁️
 
 → [adrienthevon.fr](https://adrienthevon.fr)
