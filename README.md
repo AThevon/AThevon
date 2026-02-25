@@ -4,7 +4,7 @@ web engineer based in toulouse, currently working on image processing and deligh
 
 mainly **next.js**
 
-i like trying others technos too
+i like vibing in every other technos
 
 outside of code: electric guitar, video games, and my beloved cbr650r 🏍️ 👁️o👁️
 
