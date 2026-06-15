@@ -1,10 +1,12 @@
 ### hey, i'm adri 
 
-web engineer based in toulouse, currently working on image processing and delightful UI's
+software engineer based in toulouse, currently working on delightful UI's
 
-mainly **next.js**
+mainly **web**
 
-i like vibing in every other technos
+currently learning **native mobile dev**
+
+i like vibing in every other tech sometimes
 
 outside of code: electric guitar, video games, and my beloved cbr650r 🏍️ 👁️o👁️
 
